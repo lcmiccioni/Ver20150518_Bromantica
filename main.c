@@ -6,10 +6,10 @@
 int main(int argc, char** argv) {
     ricetta elenco[N];
     
-    //input delle ricette
+    //input ricette
     inputRicette(elenco, N);
     
-    //ordinamento delle ricette
+    //ordinamento ricette
     ordinaRicette(elenco, N);
     
     //file ricette
